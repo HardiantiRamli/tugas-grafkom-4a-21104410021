@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410021** |
+| Nama Lengkap | **HARDIANTI RAMLI** |
 | Kelas | TI-4A |
